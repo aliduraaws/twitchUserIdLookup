@@ -7,10 +7,11 @@ You will need two things before you start:
 1- Your Twitch ClientID
 2- Your Client Secret
 # what then?
-Then you download this repo 
-Update the manifest file with your Client ID and Client Secret
-Open up Chrome, and go to chrome://extensions/
-Select Load unpacked and point to the directory you extracted this repo repo on your local 
-And give it a try.
+Then you download this repo <br />
+Update the popup.jsfile with your Client ID and Client Secret<br />
+Open up Chrome, and go to chrome://extensions/<br />
+Select Load unpacked <br />
+Point to the directory you extracted this repo on your local <br />
+And give it a try.<br />
 
 Enjoy...
