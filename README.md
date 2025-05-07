@@ -1,7 +1,7 @@
 # twitchUserIdLookup
 Twitch User Id Lookup from User Name as Chrome Extension. 
 # who needs this?
-If you're a Twitch developer looking for clienIDs, this is what you will need
+If you're a Twitch developer looking for clientIDs, this is what you will need
 # how do you use it?
 You will need two things before you start: 
 1- Your Twitch ClientID
