@@ -1,12 +1,12 @@
 # twitchUserIdLookup
 Twitch User Id Lookup from User Name as Chrome Extension. 
-## who needs this?
+# who needs this?
 If you're a Twitch developer looking for clienIDs, this is what you will need
 # how do you use it?
 You will need two things before you start: 
 1- Your Twitch ClientID
 2- Your Client Secret
-# What then?
+# what then?
 Then you download this repo 
 Update the manifest file with your Client ID and Client Secret
 Open up Chrome, and go to chrome://extensions/
